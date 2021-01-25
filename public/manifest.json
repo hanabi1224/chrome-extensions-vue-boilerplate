@@ -1,0 +1,33 @@
+{
+  "manifest_version": 2,
+  "name": "Chrome Extension Vue Boilerplate",
+  "description": "Chrome Extension, Vue, Typescript, Parcel, Visual Studio Code",
+  "version": "1.0",
+  "options_ui": {
+    "page": "options.html",
+    "chrome_style": true
+  },
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "content_script.js"
+      ],
+      "runat": "document_end"
+    }
+  ],
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "permissions": [
+    "storage",
+    "<all_urls>"
+  ]
+}
