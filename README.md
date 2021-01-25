@@ -1,7 +1,7 @@
 # chrome-extensions-vue-boilerplate
 ![Node.js CI](https://github.com/hanabi1224/chrome-extensions-vue-boilerplate/workflows/build/badge.svg)
 
-Boilerplate for chrome extension using vue + typescript, and bundled by parcel
+Boilerplate for chrome extension using vue + typescript, and bundled by parcel with save-and-refresh support
 
 ## Development Build and Watch
 ```
