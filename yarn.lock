@@ -1167,10 +1167,10 @@
   dependencies:
     "@babel/types" "^7.3.0"
 
-"@types/chrome@^0.0.134":
-  version "0.0.134"
-  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.0.134.tgz#79aa318d3491f4c5627c5bab60179eaa713c16eb"
-  integrity sha512-NlYHk+a0Bq6kTvGT4s2w1G3UuDBeoZJYJL1wzmEIusBKYyDDtdl37kOz3Hzb/NEC2KNdnOBVoYLS2opQYsF1Vw==
+"@types/chrome@^0.0.142":
+  version "0.0.142"
+  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.0.142.tgz#63acab9b0f037324ff2f40efe12636cd63dc906d"
+  integrity sha512-fUbewXxe6vKVHij/fRXrwbbVMjetEcbiEJFAuuOd/OkLW9BCqB+M1SvV7U5sufZNLIA+dNmbXMUKJLGgVbtH3A==
   dependencies:
     "@types/filesystem" "*"
     "@types/har-format" "*"
