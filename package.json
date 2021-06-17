@@ -41,7 +41,7 @@
     "rimraf": "^3.0.2 ",
     "sass": "^1.32.12",
     "ts-jest": "^26.5.4",
-    "typescript": "^4.2.4",
+    "typescript": "^4.3.3",
     "vue-template-compiler": "^2.6.14"
   }
 }
