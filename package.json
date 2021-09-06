@@ -31,7 +31,7 @@
     "vue-property-decorator": "^9.1.2"
   },
   "devDependencies": {
-    "@types/chrome": "^0.0.148",
+    "@types/chrome": "^0.0.155",
     "@types/jest": "^26.0.24",
     "@vue/component-compiler-utils": "^3.2.2",
     "jest": "^27.0.6",
