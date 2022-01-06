@@ -34,7 +34,7 @@
     "@types/chrome": "^0.0.148",
     "@types/jest": "^26.0.24",
     "@vue/component-compiler-utils": "^3.2.2",
-    "jest": "^27.0.6",
+    "jest": "^27.4.7",
     "parcel-bundler": "^1.12.5",
     "parcel-plugin-static-files-copy": "^2.6.0",
     "prettier": "^2.3.2",
